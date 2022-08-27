@@ -1,0 +1,99 @@
+id: b61a999667dc4c9ebc2f90a6b5d78545
+annotation_type: Language
+revision: '00001'
+annotations:
+  994c083be14e4210b00bad930db336ad:
+    span:
+      start: 40
+      end: 190
+    language: en
+  5a50dc0c56164bcbb1c08e910b360d0c:
+    span:
+      start: 219
+      end: 258
+    language: en
+  669deadf3e524f6e9e1e3f1c3b445aa9:
+    span:
+      start: 309
+      end: 359
+    language: en
+  3253c6c9dab24a03883b7754a2dc995f:
+    span:
+      start: 381
+      end: 761
+    language: en
+  745309529eb5408883c3bca0f7a6e425:
+    span:
+      start: 31000
+      end: 31146
+    language: en
+  d5811bc714734db3a468e706612ff502:
+    span:
+      start: 38293
+      end: 38440
+    language: en
+  7b54e7c729fb4221acb77f314d8d277c:
+    span:
+      start: 44433
+      end: 44506
+    language: en
+  4a3cc70a92a5410bb00d3f99385dc787:
+    span:
+      start: 177048
+      end: 177152
+    language: en
+  8a5e1211a5e643b5892904ab4f0d6f2f:
+    span:
+      start: 179782
+      end: 179845
+    language: en
+  99dabc19a0874e609bb0f34437e3536c:
+    span:
+      start: 197240
+      end: 197397
+    language: en
+  89ed1e3c587a44a9b0d0aea3f0f8be87:
+    span:
+      start: 229276
+      end: 229335
+    language: en
+  5415d31e60dc4920b74238b544ab215a:
+    span:
+      start: 240228
+      end: 240316
+    language: en
+  a1ed718a80e44c38aa364153559ac8c6:
+    span:
+      start: 255440
+      end: 255586
+    language: en
+  4abb622a03f24c3786cd3b3bb5af45c9:
+    span:
+      start: 256842
+      end: 257012
+    language: en
+  0b9735f455c54f0e92a69d64c888a717:
+    span:
+      start: 332907
+      end: 333068
+    language: en
+  9ad2842ed4434513acf9fabefcd5aea6:
+    span:
+      start: 402463
+      end: 402540
+    language: en
+  0a591143195a49018bbd6e3ce29a408d:
+    span:
+      start: 402572
+      end: 402636
+    language: en
+  190e9312c05947efa603f8cb5a00c9cc:
+    span:
+      start: 402662
+      end: 402700
+    language: en
+  8b280879daac45b0a69d91f6a89f1342:
+    span:
+      start: 402729
+      end: 402762
+    language: en
